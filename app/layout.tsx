@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
-import { Roboto, Roboto_Mono } from "next/font/google"; // Importar Roboto de Google Fonts
+import { Roboto } from "next/font/google"; // Importar Roboto de Google Fonts
 import Navbar from "@/components/navbar";
 import Header from "@/components/header";
 
