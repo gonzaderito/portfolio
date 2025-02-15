@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import { TypeAnimation } from "react-type-animation";
-import { motion } from "framer-motion";
+
 import Photo from "@/components/photo";
 
 const Introduction = () => {

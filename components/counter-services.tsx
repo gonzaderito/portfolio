@@ -1,6 +1,6 @@
 import CountUp from 'react-countup';
 import { dataCounter } from "@/data";
-import { div } from 'framer-motion/client';
+
 
 const CounterServices = () => {
     return ( 
